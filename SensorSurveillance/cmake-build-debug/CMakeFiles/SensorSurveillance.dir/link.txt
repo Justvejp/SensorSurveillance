@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SensorSurveillance.dir/objects.a
+C:\Users\Gurra\WinBuilds\bin\ar.exe cr CMakeFiles\SensorSurveillance.dir/objects.a @CMakeFiles\SensorSurveillance.dir\objects1.rsp
+C:\Users\Gurra\WinBuilds\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SensorSurveillance.dir/objects.a -Wl,--no-whole-archive -o SensorSurveillance.exe -Wl,--out-implib,libSensorSurveillance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SensorSurveillance.dir\linklibs.rsp

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gurra/CLionProjects/SensorSurveillance/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+bitset
+-
+chrono
+-
+

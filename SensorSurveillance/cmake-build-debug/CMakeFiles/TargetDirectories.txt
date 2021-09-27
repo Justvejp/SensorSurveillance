@@ -1,0 +1,3 @@
+C:/Users/Gurra/CLionProjects/SensorSurveillance/cmake-build-debug/CMakeFiles/SensorSurveillance.dir
+C:/Users/Gurra/CLionProjects/SensorSurveillance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gurra/CLionProjects/SensorSurveillance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
